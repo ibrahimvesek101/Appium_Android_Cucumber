@@ -59,7 +59,6 @@ public class manWomanPage {
 
     public void clickCloseButton() {
         elementHelper.click(closeButton);
-
     }
 }
 
